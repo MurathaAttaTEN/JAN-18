@@ -9,7 +9,7 @@ fun hello(name: String){
     var name = "wanjiru"
     println("hello "+ name)
 }
-fun  modulous (a: Int,b:Int ){
+fun  modulous (a: Int,b:Int ){_
     var modulous = a%b
     println(modulous)
 
